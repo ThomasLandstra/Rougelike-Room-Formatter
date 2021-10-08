@@ -21,4 +21,4 @@ These features are not planned but may be added later:
 
 ## Licence
 
-This project is shared under the MIT licence.
+This project is shared under the [MIT licence](https://github.com/ThomasLandstra/Rougelike-Room-Formatter/blob/main/LICENCE).
