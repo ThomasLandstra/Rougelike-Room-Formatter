@@ -9,9 +9,9 @@ def main():
         pix = img.load()
 
         # Load through 16 by 16
-        for y in range(16):
+        for y in range(img.size[1]):
             map.append([])
-            for x in range(16):
+            for x in range(img.size[0]):
                 # Get Pixel
                 pixl: tuple = pix[x, y]
 

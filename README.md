@@ -6,8 +6,7 @@ This tool allows the user to convert a 16 by 16 image into a list with numbers r
 
 The following features are planned to be added in the future:
 
-- Support for any image size
-- Save to file (Using [PyEsave](https://github.com/ThomasLandstra/PyEsave))
+- Save to file
 - Export in CSV format
 - Support for more objects
 - Preview feature
